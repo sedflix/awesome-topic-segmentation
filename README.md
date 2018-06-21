@@ -7,15 +7,16 @@
 - [Book: Spoken-Language-Understanding-Systems-for-Extracting-Semantic-Information-from-Speech](https://libgen.pw/download/book/5a1f05023a044650f509e060)
 
 ## Segmentation
-- [Attention-Based Neural Text Segmentation: 2018](https://sci-hub.tw/10.1007/978-3-319-76941-7)
+- [Attention-Based Neural Text Segmentation: 2018](https://sci-hub.tw/10.1007/978-3-319-76941-7) : [Code](https://github.com/pinkeshbadjatiya/neuralTextSegmentation)
 - [C-HTS: A Concept-based Hierarchical Text Segmentation approach: 2018](http://www.lrec-conf.org/proceedings/lrec2018/pdf/806.pdf) : [Code](https://github.com/bayomim/C-HTS)
-- [Text Segmentation based on Semantic Word Embeddings: 2017](https://arxiv.org/pdf/1503.05543.pdf)
+- [Text Segmentation based on Semantic Word Embeddings: 2017](https://arxiv.org/pdf/1503.05543.pdf) : [Code](https://github.com/chschock/textsplit)
+- [Text Segmentation as a Supervised Learning Task](https://arxiv.org/pdf/1803.09337.pdf) : [Code](https://github.com/koomri/text-segmentation)
 - [Topic Segmentation with a Structured Topic Model](http://www.aclweb.org/anthology/N13-1019)
 - [Unsupervised Text Segmentation Using Semantic Relatedness Graphs: 2016](http://www.aclweb.org/anthology/S16-2016)
-- [Hierarchical Text Segmentation from Multi-Scale Lexical Cohesion: after bayes](http://www.aclweb.org/anthology/N09-1040)
+- [Hierarchical Text Segmentation from Multi-Scale Lexical Cohesion: after bayes](http://www.aclweb.org/anthology/N09-1040) : [Code](https://github.com/pjdrm/hbseg)
 
 #### These MIT guys
-- [Bayesian Unsupervised Topic Segmentation: 2008 ](https://people.csail.mit.edu/regina/my_papers/EMNLP_BUTS.pdf)
+- [Bayesian Unsupervised Topic Segmentation: 2008 ](https://people.csail.mit.edu/regina/my_papers/EMNLP_BUTS.pdf) : [Code](https://github.com/jacobeisenstein/bayes-seg)
 - [Minimum Cut Model for Spoken Lecture Segmentation: 2006](https://people.csail.mit.edu/regina/my_papers/seg.pdf)
 - [Making Sense of Sound: Unsupervised Topic Segmentation over Acoustic Input: 2007](http://people.csail.mit.edu/jrg/2007/igor-acl07.pdf)
 - [Gestural Cohesion for Topic Segmentation: 2008](https://people.csail.mit.edu/regina/my_papers/gest_seg.pdf)
