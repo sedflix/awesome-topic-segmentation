@@ -3,7 +3,7 @@
 # List of Papers 
 
 ## Overview of Topic Segmentation
-- [https://www.mff.cuni.cz/veda/konference/wds/proc/pdf12/WDS12_120_i3_Galuscakova.pdf](https://www.mff.cuni.cz/veda/konference/wds/proc/pdf12/WDS12_120_i3_Galuscakova.pdf)
+- [Application of Topic Segmentation in Audiovisual Information Retrieval](https://www.mff.cuni.cz/veda/konference/wds/proc/pdf12/WDS12_120_i3_Galuscakova.pdf)
 - [Book: Spoken-Language-Understanding-Systems-for-Extracting-Semantic-Information-from-Speech](https://libgen.pw/download/book/5a1f05023a044650f509e060)
 
 ## Segmentation
